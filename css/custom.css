@@ -1,0 +1,39 @@
+body {
+  background: #fff;
+}
+header {
+  margin: 30px 0;
+}
+.contenido {
+  padding: 20px;
+}
+.contenido-principal {
+  background-color: white;
+  -webkit-box-shadow: 0px 21px 46px -15px rgba(0, 0, 0, 1);
+  -moz-box-shadow: 0px 21px 46px -15px rgba(0, 0, 0, 1);
+  box-shadow: 0px 21px 46px -15px rgba(0, 0, 0, 1);
+  padding: 30px;
+  border-radius: 20px;
+}
+.presupuesto p {
+  margin-bottom: 0;
+  font-weight: bold;
+}
+.presupuesto p span {
+  font-weight: normal;
+}
+#gastos {
+  margin-bottom: 30px;
+}
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 100;
+  color: #000;
+}
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 100;
+  color: #000;
+  font-size: 22px;
+  margin-bottom: 30px;
+}
